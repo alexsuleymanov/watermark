@@ -1,0 +1,20 @@
+{
+    "name": "alexsuleymanov/watermark",
+    "description": "Наложение водяного знака на изображение",
+    "type": "library",
+    "require": {
+        "php": "^5.4|^7.0|^8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ASweb\\Watermark\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alex Suleymanov",
+            "email": "alex.suleymanov@gmail.com"
+        }
+    ]
+}
